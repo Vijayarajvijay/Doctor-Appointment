@@ -1,0 +1,22 @@
+{
+  "build": {
+    "development": {
+      "android": {
+        "buildType": "apk"
+      },
+      "ios": {}
+    },
+    "preview": {
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "ios": {}
+    },
+    "production": {
+      "android": {
+        "buildType": "app-bundle"
+      },
+      "ios": {}
+    }
+  }
+}

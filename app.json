@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Health-Visit",
+    "slug": "Health-Visit",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "ac0742c8-d81a-4a2a-8abf-799c4369bf1c"
+      }
+    }
+  },
+  "name": "Health-Visit"
+}
